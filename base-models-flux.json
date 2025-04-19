@@ -1,0 +1,24 @@
+[
+  {
+    "name": "FLUX.1",
+    "versionId": 1516014,
+    "modelId": 1813538,
+    "versionName": "DEV FP8 - Kijai [11 GB]",
+    "uuid": "dceeafdf7a7e432f8be9a12d29faa5d5",
+    "tagV2Ids": [
+      100031, 100048, 100070, 100081, 100026, 100028, 100029, 100069, 100078
+    ],
+    "baseType": "FLUX.1",
+    "modelType": "Checkpoint",
+    "runCount": 8600,
+    "userAvatar": null,
+    "userName": null,
+    "imageUrl": "https://models-online-persist.shakker.cloud/img/036c4f69b4b94e0b87160f469655f4be/9c230f73e7cdd27465495a910e962de56d7b16fce24870bbb8641234defaa10b.jpg",
+    "vipUsed": 0,
+    "weight": 1,
+    "modelUuid": "9208b303b0c444c9be86736890344d09",
+    "triggerWord": null,
+    "remark": null,
+    "ngPrompt": ""
+  }
+]
