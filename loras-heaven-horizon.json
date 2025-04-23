@@ -58,5 +58,25 @@
     "triggerWord": null,
     "remark": null,
     "ngPrompt": ""
+  },
+  {
+    "name": "Dramatic Light - Flux.1",
+    "versionId": 19480856,
+    "modelId": 17808700,
+    "versionName": "v1.0",
+    "uuid": "b873b7fa4b174b2f820058a2807ac255",
+    "tagV2Ids": [100072, 100080, 102007, 100026, 100028, 100069, 100078],
+    "baseType": "FLUX.1",
+    "modelType": "LORA",
+    "runCount": 131,
+    "userAvatar": null,
+    "userName": null,
+    "imageUrl": "https://models-online-persist.shakker.cloud/img/556d56bac48244eb973b62ab62dbb902/781b782a31a2ab55248c4df7cb471d7110860aed38e06e190d175674f6b8cec3.png",
+    "vipUsed": 0,
+    "weight": 1,
+    "modelUuid": "cf468489655e46a8901b7bc2e2a867d4",
+    "triggerWord": null,
+    "remark": null,
+    "ngPrompt": ""
   }
 ]
