@@ -1,20 +1,22 @@
-{
-  "name": "Flux.1 Model Family_Black Forest Labs",
-  "versionId": 1508012,
-  "modelId": 1807379,
-  "versionName": "FLUX.1-dev-fp8",
-  "uuid": "bb5ddad75aaa4af68d864c5fb1456601",
-  "tagV2Ids": [100031, 100082, 102000, 100026, 100029, 100078],
-  "baseType": "FLUX.1",
-  "modelType": "Checkpoint",
-  "runCount": 5528500,
-  "userAvatar": null,
-  "userName": null,
-  "imageUrl": "https://models-online-persist.shakker.cloud/img/e6d7756629e441049384ace5ab9dfe47/30647c52490c235673520bc68e46969baf062d5a40dccb8be7d0e448b13be48b.jpg",
-  "vipUsed": 0,
-  "weight": 1,
-  "modelUuid": "78c20902aea8460da70ff4a89186000c",
-  "triggerWord": null,
-  "remark": null,
-  "ngPrompt": ""
-}
+[
+  {
+    "name": "Flux.1 Model Family_Black Forest Labs",
+    "versionId": 1508012,
+    "modelId": 1807379,
+    "versionName": "FLUX.1-dev-fp8",
+    "uuid": "bb5ddad75aaa4af68d864c5fb1456601",
+    "tagV2Ids": [100031, 100082, 102000, 100026, 100029, 100078],
+    "baseType": "FLUX.1",
+    "modelType": "Checkpoint",
+    "runCount": 5528500,
+    "userAvatar": null,
+    "userName": null,
+    "imageUrl": "https://models-online-persist.shakker.cloud/img/e6d7756629e441049384ace5ab9dfe47/30647c52490c235673520bc68e46969baf062d5a40dccb8be7d0e448b13be48b.jpg",
+    "vipUsed": 0,
+    "weight": 1,
+    "modelUuid": "78c20902aea8460da70ff4a89186000c",
+    "triggerWord": null,
+    "remark": null,
+    "ngPrompt": ""
+  }
+]
